@@ -1,2 +1,3 @@
-# Linker.github.io
-Repositório dedicado a Linkar meus projetos, redes sociais e derivados
+# Página de links de acesso rápido
+
+Página dedicada a juntar meus dados como Potifólio, GitHub, Linkedin, Instagram, Steam etc....
